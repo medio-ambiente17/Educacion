@@ -1,0 +1,21 @@
+body{
+     background:pink;
+     }
+    
+  p { 
+      color:white;
+     }
+      
+p a {
+     color: purple;
+     }
+
+ a {
+    color :red;
+   }
+   
+   img{
+        width: 200px;
+        height: 100px;
+       }
+     
